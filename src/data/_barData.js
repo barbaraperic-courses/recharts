@@ -1,30 +1,30 @@
-export const Weatherdata = [
+export const weatherData = [
   {
-    month: 'Jan', 
+    month: 1, 
     rainfall: 40,
   },
   {
-    month: 'Feb', 
+    month: 2, 
     rainfall: 20,
   },
   {
-    month: 'Mar', 
+    month: 3, 
     rainfall: 30,
   },
   {
-    month: 'Apr', 
+    month: 4, 
     rainfall: 10,
   },
   {
-    month: 'May', 
+    month: 5, 
     rainfall: 15,
   },
   {
-    month: 'Jun', 
+    month: 6, 
     rainfall: 20,
   },
   {
-    month: 'Jul', 
+    month: 7, 
     rainfall: 40,
   },
 ];
