@@ -1,10 +1,10 @@
 import './App.css';
-import Bar from './components/Bar'
+import Pie from './components/Pie'
 
 function App() {
   return (
     <div className="App">
-      <Bar />
+      <Pie />
     </div>
   );
 }
